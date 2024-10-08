@@ -1,0 +1,33 @@
+.login-form{
+  max-width: 900px;
+  margin-left: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.form-label{
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-input {
+  width: 60%;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.form-submit{
+  background-color: rgb(254, 44, 85);
+  color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
+  padding: 5px;
+  margin-left: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.form-submit:hover{
+  background-color: rgb(188, 34, 65);
+}

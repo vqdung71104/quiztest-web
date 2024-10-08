@@ -1,0 +1,17 @@
+.title{
+  font-weight: 700;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(230, 229, 229);
+ }
+ 
+ .title-2{
+  align-items: center;
+  padding: 5px;
+ }
+ 
+ .nav-link{
+   padding: 10px;
+ }
+ 

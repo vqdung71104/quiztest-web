@@ -1,0 +1,38 @@
+.user-title {
+    height: 90%; /* 90% chiều cao bên dưới của body */
+    display: flex;
+    align-items: center; /* Canh giữa theo chiều dọc */
+    justify-content: center; /* Canh giữa theo chiều ngang */
+    background-color: #eaeaea;
+    font-weight: bold;
+}
+  
+.practice-choice-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-button{
+  display: inline;
+  margin-left: 5px;
+  margin-right: 10px;
+  font-weight: bold;
+  background-color: rgba(11, 224, 155, 1);
+  height: 28px;
+  width: 250px;
+}
+
+.user-button:hover{
+  background-color: rgb(33, 168, 125);
+}
+
+.user-title-2{
+  align-items: center;
+  justify-content: center;
+}
+
+.user-title-2-h2{
+  align-items: center;
+  justify-content: center;
+}

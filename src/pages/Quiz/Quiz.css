@@ -1,0 +1,26 @@
+.correct {
+  background-color: #d4edda;
+  color: green;
+}
+
+.incorrect {
+  background-color: #f8d7da;
+  color: red;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: rgb(254, 44, 85);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.submit-button:hover{
+  background-color: rgb(188, 34, 65);
+}
+
+.answers-list li {
+  margin-bottom: 10px;
+}

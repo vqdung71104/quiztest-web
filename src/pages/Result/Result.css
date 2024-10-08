@@ -1,0 +1,46 @@
+.result-actions {
+  margin-top: 20px;
+}
+
+.redo-button, .finish-button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.question-item{
+ margin: 5px;
+}
+
+.question-text{
+  font-weight: 700;
+  font-weight: bold;
+}
+
+.question-list {
+  margin: 5px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  font-weight: 500;
+}
+
+.redo-button {
+  background-color: rgba(11, 224, 155, 1);
+  color: rgb(255, 255, 255);
+  align-items: center;
+}
+
+.finish-button {
+  background-color: rgba(255, 76, 58, 1);
+  color: rgb(255, 255, 255);
+}
+
+.redo-button:hover{
+  background-color: rgba(0, 133, 104, 1);
+  align-items: center;
+}
+
+.finish-button:hover{
+  background-color: rgb(235, 5, 51);
+}
